@@ -1,4 +1,4 @@
-import telebot
+﻿import telebot
 import cherrypy
 import time
 from telebot import types
